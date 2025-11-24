@@ -1,0 +1,1 @@
+<view class="content"><view style="text-align:center;margin:20rpx 0;color:#888;font-size:26rpx"> 孙晗宁 </view><view class="title">{{a}}</view><view class="art-content"><rich-text class="richText" nodes="{{b}}"></rich-text></view></view>
